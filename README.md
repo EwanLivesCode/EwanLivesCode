@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Ivan and I'm a Automation Software Tester, from Aberdeen.</p>
+<p align="left">My name is Ivan and I'm a Automation Software Tester, currently living in Aberdeen, Scotland.</p>
 
 ###
 
