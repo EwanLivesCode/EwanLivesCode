@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I’m interested in Software development while working as Automation Software testing. <br>🎯 Goals: Currently learning how to best incorporate Python and AI into Software testing <br>🎲 Fun fact: Dog dad with passion for delicious cooking recipes</p>
+<p align="left">✨ Finding and squashing bugs since 2020<br>📚 I’m interested in Software development while working as Automation Software testing. <br>🎯 Goals: Currently learning how to best incorporate Python and AI into Software testing <br>🎲 Fun fact: Dog dad with passion for delicious cooking recipes</p>
 
 ###
 
